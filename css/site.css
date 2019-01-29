@@ -21,3 +21,12 @@
     color: white;
 }
 .card{ border-radius:0;}
+.color-caliber {
+    color: #d9232d;
+}
+.bg-caliber {
+    background-color: #d9232d;
+}
+.point{ cursor:pointer;}
+
+

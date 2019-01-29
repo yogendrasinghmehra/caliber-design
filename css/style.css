@@ -1,18 +1,7 @@
-/*
-  Theme Name: Reveal
-  Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
-
 body {
   background: #fff;
   color: #444;
-  font-family: "Open Sans", sans-serif;
+  
 }
 
 a {
@@ -30,9 +19,9 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #51d8af;
-  outline: none;
-  text-decoration: none;
+    color: #d9232d;
+    outline: none;
+    text-decoration: none;
 }
 
 p {
@@ -46,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-  /*font-family: "Montserrat", sans-serif;*/
+ 
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -144,8 +133,7 @@ h6 {
   margin: 0;
   padding: 0 0 0 15px;
   border-left: 3px solid #d9232d;
-  line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  line-height: 1; 
   font-weight: 700;
 
 }
@@ -218,7 +206,7 @@ h6 {
 
 #intro .intro-content .btn-get-started,
 #intro .intro-content .btn-projects {
-  font-family: "Raleway", sans-serif;
+  
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 1px;
@@ -354,7 +342,7 @@ h6 {
   text-decoration: none;
   display: inline-block;
   color: #555;
-  font-family: "Raleway", sans-serif;
+  
   font-weight: 700;
   font-size: 14px;
   outline: none;
